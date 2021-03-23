@@ -1,2 +1,1 @@
-# text-mining
-Sample Text Mining Project using RStudio using Twitter Data
+# Sample Text Mining Project using RStudio with Twitter Data
