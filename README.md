@@ -1,4 +1,4 @@
-# Sample Text Mining Project using RStudio with Twitter Data
+# Sample Text Mining using RStudio with Twitter Data
 
 This sample project was based on an article of the Earth Lab
 
